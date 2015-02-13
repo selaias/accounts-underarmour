@@ -2,7 +2,7 @@ Package.describe({
   name: 'selaias:accounts-underarmour',
   version: '0.1.0',
   summary: 'Login service for Under Armour accounts',
-  git: 'https://github.com/selaias/accounts-under-armour.git',
+  git: 'https://github.com/selaias/accounts-underarmour.git',
   documentation: 'README.md'
 });
 Package.onUse(function(api) {
